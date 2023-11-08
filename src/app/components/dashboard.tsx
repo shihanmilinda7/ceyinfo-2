@@ -5,7 +5,7 @@ export const Dashboard = () => {
   return (
       <div className='flex items-center flex-col m-10'>
           <div className='flex items-center flex-col'  >
-              <div className="text-red-600 flex items-center flex-col"> <img src="./protarck-logopng-upscaled.png" alt="Protarck logo" style={{ width: "3rem", height: "3rem" }} />
+              <div className="text-red-600 flex items-center flex-col"> <img src="./protarck.png" alt="Protarck logo" style={{ width: "3rem", height: "3rem" }} />
                   Protarck</div>
               <div className="text-green-600">Next Gen Project Monitoring!</div>
           </div>
