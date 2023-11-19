@@ -387,7 +387,10 @@ const HomePage = () => {
                 </p>
               </div>
 
-              <a href="https://protrack.ceyinfo.com" className="inline-flex items-center justify-center w-full py-3 mt-6 font-sans text-sm leading-none text-center text-blue-600 no-underline bg-transparent border border-b-2 border-blue-600 rounded-md cursor-pointer hover:bg-blue-600 hover:border-blue-600 hover:text-white sm:text-base sm:mt-8 md:text-lg">
+              <a
+                href="https://protrack.ceyinfo.com"
+                className="inline-flex items-center justify-center w-full py-3 mt-6 font-sans text-sm leading-none text-center text-blue-600 no-underline bg-transparent border border-b-2 border-blue-600 rounded-md cursor-pointer hover:bg-blue-600 hover:border-blue-600 hover:text-white sm:text-base sm:mt-8 md:text-lg"
+              >
                 Try free!
               </a>
             </div>
@@ -407,7 +410,7 @@ const HomePage = () => {
                 </p>
               </div>
               <button className="inline-flex items-center justify-center w-full py-3 mt-6 font-sans text-sm leading-none text-center text-white no-underline bg-blue-600 border-b-4 border-blue-700 rounded cursor-pointer hover:text-white sm:text-base sm:mt-8 md:text-lg">
-                Select Plan
+                Coming soon!
               </button>
             </div>
             <div className="box-border px-4 py-8 text-center bg-white border-solid sm:px-4 sm:py-8 md:px-8 md:py-12 lg:px-10">
@@ -426,7 +429,7 @@ const HomePage = () => {
                 </p>
               </div>
               <button className="inline-flex items-center justify-center w-full py-3 mt-6 font-sans text-sm leading-none text-center text-blue-600 no-underline bg-transparent border border-b-2 border-blue-600 rounded cursor-pointer hover:bg-blue-600 hover:border-blue-600 hover:text-white sm:text-base sm:mt-8 md:text-lg">
-                Select Plan
+                Coming soon!
               </button>
             </div>
           </div>
