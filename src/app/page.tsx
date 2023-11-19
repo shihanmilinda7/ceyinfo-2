@@ -1,12 +1,10 @@
-import Image from 'next/image'
-import { Dashboard } from './components/dashboard';
-import Navbar from './components/navbar';
+import HomePage from "./components/homepage/home-page";
 
 export default function Home() {
   return (
     <>
-     <Navbar></Navbar>
-      <Dashboard />
+      {/* <Navbar></Navbar> */}
+      <HomePage />
     </>
-  )
+  );
 }
